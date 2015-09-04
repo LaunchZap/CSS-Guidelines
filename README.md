@@ -1,4 +1,4 @@
-# Notas generales de CSS, consejos y directrices
+# Guia de estilo para la escritura de codigo frontend para LaunchZap
 
 ---
 
